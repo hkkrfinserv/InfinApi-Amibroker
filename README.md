@@ -154,7 +154,7 @@ bpprc  = "158";
 
 NorenPlaceBracketOrder(exch, tsym, qty, prc, trgprc, dscqty, prd, trantype, prctyp, ret, remarks, blprc, bpprc);       
 ````
-##Symbol Master:- Check the Symbol Format from Below mention Symbol Master urls
+**##Symbol Master:- Check the Symbol Format from Below mention Symbol Master urls**
 
 NSE - Capital Market https://api.infinn.in/NSE_symbols.txt.zip
 
@@ -166,7 +166,9 @@ BSE - Equity Derivatives https://api.infinn.in/BFO_symbols.txt.zip
 
 MCX - Commodity https://api.infinn.in/MCX_symbols.txt.zip
 
-##Contact us
+****
+
+**##Contact us**
 
 For any queries, feel free to reach us, by email at apisupport@infinn.in or call 0172-4073000
 
